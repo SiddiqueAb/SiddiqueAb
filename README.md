@@ -10,12 +10,12 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pranto)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)]()-->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mahadihasanpranto786&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SiddiqueAb&show_icons=true&hide_border=true">
 
 ## 🧐 About me:
 
 I loved to research technology's and also problems solver.
-<br/>:heavy_check_mark: **How to reach me :** mpranto394@gmail.com
+<br/>:heavy_check_mark: **How to reach me :** absiddiquehc@gmail.com
 <br/>:heavy_check_mark: **Post :** Junior Web Developer :computer:	
 <br/>:heavy_check_mark: **Learning :** Full-Stack :zap: | Open-Source :fire:	
 <br/>:heavy_check_mark: **Hobbies :** Books :books: | Codding :green_heart: | Music :headphones: | Piano :musical_keyboard:
@@ -38,4 +38,4 @@ I loved to research technology's and also problems solver.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
-![VS](https://img.shields.io/badge/Trello-0052CC?flat-square&logo=trello&logoColor=white)
+![VS](https://img.shields.i
