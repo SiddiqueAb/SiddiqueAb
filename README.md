@@ -2,7 +2,7 @@
 
 **I am** [**AB SIDDIQUE**](https://github.com/SiddiqueAb)！**I am a Full Stack Web Developer** 👨‍💻 **who is passionate about codding and open source.**
 
-<a href="https://www.linkedin.com/in/mahadihasanpranto786" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ab-siddique/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mpranto394@gmail.com)](mailto:mpranto394@gmail.com)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UCKDxzm83KzZb-zz_AKGK5Ig) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/mehedihasanpranto786)
