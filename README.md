@@ -38,4 +38,4 @@ I loved to research technology's and also problems solver.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
-![VS](https://img.shields.i
+![Firefox](https://img.shields.io/badge/Mozila-firefox-blue)
