@@ -4,9 +4,9 @@
 
 <a href="https://www.linkedin.com/in/ab-siddique/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:absiddiquehc@gmail.com)](mailto:absiddiquehc@gmail.com)
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UCKDxzm83KzZb-zz_AKGK5Ig) 
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtLEbivYuBUGP6mr3F_At6w) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/virus_155)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/)](https://space.bilibili.com/)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/)](https://github.com/SiddiqueAb/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pranto)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)]()-->
