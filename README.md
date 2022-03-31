@@ -18,7 +18,7 @@ I loved to research technology's and also problems solver.
 <br/>:heavy_check_mark: **How to reach me :** absiddiquehc@gmail.com
 <br/>:heavy_check_mark: **Post :** Full Stack Software Developer :computer:	
 <br/>:heavy_check_mark: **Learning :** Full-Stack :zap: | Open-Source :fire:	
-<br/>:heavy_check_mark: **Hobbies :** Books :books: | Codding :green_heart: | Music :headphones: | Piano :musical_keyboard:
+<br/>:heavy_check_mark: **Hobbies :** Books :books: | Codding :green_heart: | Music :headphones: |
 ## ⚡ Technologies
 ### :art:Frontend :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
