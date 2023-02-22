@@ -30,7 +30,7 @@ I loved to research technology's and also problems solver.
 ### :fire:Backend :
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=Codeigniter)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Ajax](https://img.shields.io/badge/AJAX-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/laravel-framework-red)
 ### 🛢Database :
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=blue)
 ### :sparkles:Others Tools:
